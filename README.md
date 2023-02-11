@@ -10,3 +10,7 @@ Una supertienda está planeando la venta de fin de año. Quieren lanzar una nuev
 La supertienda quiere predecir la probabilidad de que el cliente dé una respuesta positiva y quiere identificar los diferentes factores que afectan la respuesta del cliente. Debe analizar los datos proporcionados para identificar estos factores y luego construir un modelo de predicción para predecir la probabilidad de que un cliente dé una respuesta positiva.
 
  - PARA ACCEDER A MÁS DETALLES DEL DATASET, VISITE ESTE ENLACE DIRECTO A [KAGGEL](https://www.kaggle.com/datasets/ahsan81/superstore-marketing-campaign-dataset)
+
+# RESULTADOS
+
+De entre todos los modelos se eligió RANDOM FOREST, puede acceder a la carpeta Results_SStore para observar los resultados obtenidos.
